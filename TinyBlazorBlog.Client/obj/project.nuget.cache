@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0ms+uJdA4mAR+Ef1yFpVy6Vcwf1QMQp5LfPj56MNZ2QcO6duf/CmCU4p4IZuE3pX1aejRj7ApYLUB5ghu3cWUg==",
+  "dgSpecHash": "j/+pEhjf2DKWDJEu6kz5mukbCLKlPSubKOU5tQTfZAasGkQGiqfAWZ3Wv/4sTPifu8LzJYq1jHDus/EaY3UOag==",
   "success": true,
   "projectFilePath": "/Users/charles/Desktop/Builds/dotnet_builds/TinyBlazorBlog/TinyBlazorBlog.Client/TinyBlazorBlog.Client.csproj",
   "expectedPackageFiles": [
@@ -27,12 +27,12 @@
     "/Users/charles/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/charles/.nuget/packages/microsoft.jsinterop/8.0.1/microsoft.jsinterop.8.0.1.nupkg.sha512",
     "/Users/charles/.nuget/packages/microsoft.jsinterop.webassembly/8.0.1/microsoft.jsinterop.webassembly.8.0.1.nupkg.sha512",
-    "/Users/charles/.nuget/packages/microsoft.net.illink.tasks/8.0.1/microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
-    "/Users/charles/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.1/microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "/Users/charles/.nuget/packages/microsoft.net.illink.tasks/8.0.2/microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "/Users/charles/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.2/microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
     "/Users/charles/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/Users/charles/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/Users/charles/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
-    "/Users/charles/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.1/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.1.nupkg.sha512"
+    "/Users/charles/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.2/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }
